@@ -9,8 +9,8 @@
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "93F0BBEA-7981-44D3-AE6D-13EDFB5F60AA",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "933F3B7FA7F09977825E0A672BACCBA03984D518" : "suitelife-quotes\/",
-    "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC" : "suitelife-quotes\/Packages\/Jay-1.0.1\/"
+    "933F3B7FA7F09977825E0A672BACCBA03984D518" : "suitelife-server\/",
+    "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC" : "suitelife-server\/Packages\/Jay-1.0.1\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "suitelife-quotes",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
