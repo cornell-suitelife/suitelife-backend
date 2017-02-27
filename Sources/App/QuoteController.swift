@@ -3,7 +3,7 @@ import HTTP
 
 final class QuoteController: ResourceRepresentable {
     func index(request: Request) throws -> ResponseRepresentable {
-        let quotes = try Quote.all().sorted { $0.timestamp < $1.timestamp }
+        let quotes = try Quote.all().sorted { $0.timestamp > $1.timestamp }
         return try quotes.makeNode().converted(to: JSON.self)
     }
 
