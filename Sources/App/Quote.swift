@@ -7,6 +7,7 @@ final class Quote: Model {
     var content: String
     var author: String
     var timestamp: TimeInterval
+    var exists: Bool = false
     
     init(content: String, author: String, timestamp: TimeInterval) {
         self.id = UUID().uuidString.makeNode()
